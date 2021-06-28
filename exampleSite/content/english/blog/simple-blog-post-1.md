@@ -2,7 +2,7 @@
 title: Simple Blog Post
 date: 2018-09-12T06:52:36+00:00
 image_webp: images/blog/blog-post-3.webp
-image: ''
+image: "/images/blog/blog-post-3.webp"
 author: John Doe
 description: This is meta description
 
